@@ -24,7 +24,7 @@ Java 8 or later
 
 ## Averageing Integers
 <p align="center">
-<img src="ttps://user-images.githubusercontent.com/103478551/210183632-0b30e73b-07c8-45b7-a755-a8048e391b53.png"/> 
+<img src="https://user-images.githubusercontent.com/103478551/210183632-0b30e73b-07c8-45b7-a755-a8048e391b53.png"/> 
 </p>
 
 This program asks the user to enter three integers, following which it outputs the average of the three integers to two decimal places
