@@ -22,6 +22,15 @@ Java 8 or later
 <a href="#top" class="btn">Back to table of contents</a>
 <hr>
 
+## Simple Encryption
+<p align="center">
+<img src="https://user-images.githubusercontent.com/103478551/210184063-667324a9-1933-4d6d-967d-48209e6c811c.png"/> 
+</p>
+This program encrypts and deciphers text by shifting the letters up or down (alphabetic rotation) depending on the user's input. 
+<br>
+<a href="#top" class="btn">Back to table of contents</a>
+<hr>
+
 ## Averageing Integers
 <p align="center">
 <img src="https://user-images.githubusercontent.com/103478551/210183632-0b30e73b-07c8-45b7-a755-a8048e391b53.png"/> 
