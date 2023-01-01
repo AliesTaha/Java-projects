@@ -13,7 +13,7 @@ These are a collection of programs I wrote in Java. They range from complex sort
 <h2 id="top">Table of Contents</h2>
 
 * [Prerequisites](#prerequisites)
-* [Running The Game](#running-the-game)
+* [Ordering Words Alphabetically](#ordering-words-alphabetically)
 * [Cubing Numbers ](#cubing-numbers)
 
 ## Prerequisites
@@ -22,11 +22,12 @@ Java 8 or later
 <a href="#top" class="btn">Back to table of contents</a>
 <hr>
 
-## Cubing Numbers
+## Ordering Words Alphabetically
 <p align="center">
-<img src="https://user-images.githubusercontent.com/103478551/210183477-c98cd369-680b-4006-b1a1-18f1818002b5.png"/> 
+<img src="https://user-images.githubusercontent.com/103478551/210183553-109e7df5-2f7c-44bf-bbfc-0b12a848c37d.png"/> 
 </p>
-The program calculates the cube of an integer value. The user will be prompted to enter an integer number between 1 and 10 and then your program will calculate the cube of that number.
+
+This program asks the user to enter one word, using println() method, then to enter a second word. The program then assigns an integer value to the word depending on the alphabetical order. It then determines and outputs whether the first word is alphabetically before, after or the same as the second word; depending on the integer value assigned. The interactions of input and output all occur in the compiler output pane. 
 <br>
 <a href="#top" class="btn">Back to table of contents</a>
 <hr>
