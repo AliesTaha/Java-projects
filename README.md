@@ -51,3 +51,23 @@ The program calculates the cube of an integer value. The user will be prompted t
 <a href="#top" class="btn">Back to table of contents</a>
 <hr>
 
+## Distance Calculator
+<p align="center">
+<img src="https://user-images.githubusercontent.com/103478551/210183840-c27e0f61-e752-4d52-af71-4243ee72963e.png"/> 
+</p>
+This program calculates the distance between two places using trigonometric arithmetic, latitudes and longitudes
+<br>
+<a href="#top" class="btn">Back to table of contents</a>
+<hr>
+
+## Rock Paper Scissors
+<p align="center">
+<img src="https://user-images.githubusercontent.com/103478551/210183796-a5cf8df5-d7c2-4a86-82e8-fe98f9502605.png"/> 
+</p>
+This program is a one player game of Rock, Paper, Scissors. The game is a best of 7 matches; however the winner must win by two. That means that the winner can win in as few as 5 games, and must have two more wins than their opponent. The program implements a while loop, and checks for input errors. 
+<br>
+<a href="#top" class="btn">Back to table of contents</a>
+<hr>
+
+
+
