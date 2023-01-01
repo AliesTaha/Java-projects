@@ -32,6 +32,27 @@ This program asks the user to enter three integers, following which it outputs t
 <a href="#top" class="btn">Back to table of contents</a>
 <hr>
 
+## Two Dice Roll Guess
+<p align="center">
+<img src="https://user-images.githubusercontent.com/103478551/210183962-63915ede-8a0d-4554-a6cb-1e019b1328bb.png"/> 
+</p>
+The program runs six times and asks the user to guess a number between 2 and 12. The program uses a separate method for the random code and the user's prize depends on how many correct guesses they have.
+
+<br>
+<a href="#top" class="btn">Back to table of contents</a>
+<hr>
+
+
+## Easter Sunday Calculator
+<p align="center">
+<img src="https://user-images.githubusercontent.com/103478551/210183920-f5a6d6fb-8f9f-43bc-b28a-0c4dfc1980b1.png"/> 
+</p>
+The purpose of this program is to find the date of Easter Sunday using a sequence of Arithmetic
+<br>
+<a href="#top" class="btn">Back to table of contents</a>
+<hr>
+
+
 ## Ordering Words Alphabetically
 <p align="center">
 <img src="https://user-images.githubusercontent.com/103478551/210183553-109e7df5-2f7c-44bf-bbfc-0b12a848c37d.png"/> 
