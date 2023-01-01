@@ -27,6 +27,7 @@ Java 8 or later
 <img src="https://user-images.githubusercontent.com/103478551/210183477-c98cd369-680b-4006-b1a1-18f1818002b5.png"/> 
 </p>
 The program calculates the cube of an integer value. The user will be prompted to enter an integer number between 1 and 10 and then your program will calculate the cube of that number.
+<br>
 <a href="#top" class="btn">Back to table of contents</a>
 <hr>
 
@@ -36,6 +37,7 @@ The program calculates the cube of an integer value. The user will be prompted t
 <img src="https://user-images.githubusercontent.com/103478551/210183477-c98cd369-680b-4006-b1a1-18f1818002b5.png"/> 
 </p>
 The program calculates the cube of an integer value. The user will be prompted to enter an integer number between 1 and 10 and then your program will calculate the cube of that number.
+<br>
 <a href="#top" class="btn">Back to table of contents</a>
 <hr>
 
