@@ -22,6 +22,16 @@ Java 8 or later
 <a href="#top" class="btn">Back to table of contents</a>
 <hr>
 
+## Averageing Integers
+<p align="center">
+<img src="ttps://user-images.githubusercontent.com/103478551/210183632-0b30e73b-07c8-45b7-a755-a8048e391b53.png"/> 
+</p>
+
+This program asks the user to enter three integers, following which it outputs the average of the three integers to two decimal places
+<br>
+<a href="#top" class="btn">Back to table of contents</a>
+<hr>
+
 ## Ordering Words Alphabetically
 <p align="center">
 <img src="https://user-images.githubusercontent.com/103478551/210183553-109e7df5-2f7c-44bf-bbfc-0b12a848c37d.png"/> 
@@ -31,7 +41,6 @@ This program asks the user to enter one word, using println() method, then to en
 <br>
 <a href="#top" class="btn">Back to table of contents</a>
 <hr>
-
 
 ## Cubing Numbers
 <p align="center">
