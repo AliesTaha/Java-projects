@@ -1,3 +1,3 @@
 # Java-mini-projects
 
-Mini-games and small projects coded in Java
+Mini-games, projects, and sorting algorithms coded in Java
