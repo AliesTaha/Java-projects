@@ -18,15 +18,12 @@ These are a collection of programs I wrote in Java. They range from complex sort
 * [Cubing Numbers](#cubing-numbers)
 * [Distance Calculator](#distance-calculator)
 * [Easter Sunday Calculator](#easter-sunday-calculator)
-* [Game of Life](#game-of-life)
-* [Game of Life](#game-of-life)
-* [Game of Life](#game-of-life)
-* [Game of Life](#game-of-life)
-* [Game of Life](#game-of-life)
-* [Game of Life](#game-of-life)
-<hr>
-
-Two Dice Roll Guess Ordering Words Alphabetically Merge Sort Rock Paper Scissors Simple Encryption 
+* [Two Dice Roll Guess](#two-dice-roll)
+* [Ordering Words Alphabetically](#ordering-words-alphabetically)
+* [Merge Sort](#merge-sort)
+* [Rock Paper Scissors ](#rock-paper-scissors)
+* [Simple Encryption](#simple-encryption)
+<hr> 
 
 ## Prerequisites
 Java 8 or later
