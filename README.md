@@ -13,8 +13,20 @@ These are a collection of programs I wrote in Java. They range from complex sort
 <h2 id="top">Table of Contents</h2>
 
 * [Prerequisites](#prerequisites)
-* [Ordering Words Alphabetically](#ordering-words-alphabetically)
-* [Cubing Numbers ](#cubing-numbers)
+* [Game of Life](#game-of-life)
+* [Averageing Integers](#averageing-integers)
+* [Cubing Numbers](#cubing-numbers)
+* [Distance Calculator](#distance-calculator)
+* [Easter Sunday Calculator](#easter-sunday-calculator)
+* [Game of Life](#game-of-life)
+* [Game of Life](#game-of-life)
+* [Game of Life](#game-of-life)
+* [Game of Life](#game-of-life)
+* [Game of Life](#game-of-life)
+* [Game of Life](#game-of-life)
+<hr>
+
+Two Dice Roll Guess Ordering Words Alphabetically Merge Sort Rock Paper Scissors Simple Encryption 
 
 ## Prerequisites
 Java 8 or later
@@ -34,63 +46,12 @@ The Game of Life is a game that simulates a simple life form using a two-dimensi
 <a href="#top" class="btn">Back to table of contents</a>
 <hr>
 
-## Merge Sort
-<p align="center">
-<img width="700" height="250" src="https://user-images.githubusercontent.com/103478551/210184284-8195f762-6422-4d0d-99ce-fe25c6ef81cb.png"/> 
-<img width="200" height="50" src="https://user-images.githubusercontent.com/103478551/210184294-b77dbd94-1987-4581-872c-f5435fcf6ed6.png"/> 
-</p>
-A simple bubble sorting algorithm
-
-<br>
-<a href="#top" class="btn">Back to table of contents</a>
-<hr>
-
-## Simple Encryption
-<p align="center">
-<img src="https://user-images.githubusercontent.com/103478551/210184063-667324a9-1933-4d6d-967d-48209e6c811c.png"/> 
-</p>
-This program encrypts and deciphers text by shifting the letters up or down (alphabetic rotation) depending on the user's input. 
-<br>
-<a href="#top" class="btn">Back to table of contents</a>
-<hr>
-
 ## Averageing Integers
 <p align="center">
 <img src="https://user-images.githubusercontent.com/103478551/210183632-0b30e73b-07c8-45b7-a755-a8048e391b53.png"/> 
 </p>
 
 This program asks the user to enter three integers, following which it outputs the average of the three integers to two decimal places
-<br>
-<a href="#top" class="btn">Back to table of contents</a>
-<hr>
-
-## Two Dice Roll Guess
-<p align="center">
-<img src="https://user-images.githubusercontent.com/103478551/210183962-63915ede-8a0d-4554-a6cb-1e019b1328bb.png"/> 
-</p>
-The program runs six times and asks the user to guess a number between 2 and 12. The program uses a separate method for the random code and the user's prize depends on how many correct guesses they have.
-
-<br>
-<a href="#top" class="btn">Back to table of contents</a>
-<hr>
-
-
-## Easter Sunday Calculator
-<p align="center">
-<img src="https://user-images.githubusercontent.com/103478551/210183920-f5a6d6fb-8f9f-43bc-b28a-0c4dfc1980b1.png"/> 
-</p>
-The purpose of this program is to find the date of Easter Sunday using a sequence of Arithmetic
-<br>
-<a href="#top" class="btn">Back to table of contents</a>
-<hr>
-
-
-## Ordering Words Alphabetically
-<p align="center">
-<img src="https://user-images.githubusercontent.com/103478551/210183553-109e7df5-2f7c-44bf-bbfc-0b12a848c37d.png"/> 
-</p>
-
-This program asks the user to enter one word, using println() method, then to enter a second word. The program then assigns an integer value to the word depending on the alphabetical order. It then determines and outputs whether the first word is alphabetically before, after or the same as the second word; depending on the integer value assigned. The interactions of input and output all occur in the compiler output pane. 
 <br>
 <a href="#top" class="btn">Back to table of contents</a>
 <hr>
@@ -113,6 +74,25 @@ This program calculates the distance between two places using trigonometric arit
 <a href="#top" class="btn">Back to table of contents</a>
 <hr>
 
+## Easter Sunday Calculator
+<p align="center">
+<img src="https://user-images.githubusercontent.com/103478551/210183920-f5a6d6fb-8f9f-43bc-b28a-0c4dfc1980b1.png"/> 
+</p>
+The purpose of this program is to find the date of Easter Sunday using a sequence of Arithmetic
+<br>
+<a href="#top" class="btn">Back to table of contents</a>
+<hr>
+
+## Merge Sort
+<p align="center">
+<img width="700" height="250" src="https://user-images.githubusercontent.com/103478551/210184284-8195f762-6422-4d0d-99ce-fe25c6ef81cb.png"/> 
+<img width="200" height="50" src="https://user-images.githubusercontent.com/103478551/210184294-b77dbd94-1987-4581-872c-f5435fcf6ed6.png"/> 
+</p>
+A simple bubble sorting algorithm
+<br>
+<a href="#top" class="btn">Back to table of contents</a>
+<hr>
+
 ## Rock Paper Scissors
 <p align="center">
 <img src="https://user-images.githubusercontent.com/103478551/210183796-a5cf8df5-d7c2-4a86-82e8-fe98f9502605.png"/> 
@@ -122,5 +102,31 @@ This program is a one player game of Rock, Paper, Scissors. The game is a best o
 <a href="#top" class="btn">Back to table of contents</a>
 <hr>
 
+## Simple Encryption
+<p align="center">
+<img src="https://user-images.githubusercontent.com/103478551/210184063-667324a9-1933-4d6d-967d-48209e6c811c.png"/> 
+</p>
+This program encrypts and deciphers text by shifting the letters up or down (alphabetic rotation) depending on the user's input. 
+<br>
+<a href="#top" class="btn">Back to table of contents</a>
+<hr>
 
+## Two Dice Roll Guess
+<p align="center">
+<img src="https://user-images.githubusercontent.com/103478551/210183962-63915ede-8a0d-4554-a6cb-1e019b1328bb.png"/> 
+</p>
+The program runs six times and asks the user to guess a number between 2 and 12. The program uses a separate method for the random code and the user's prize depends on how many correct guesses they have.
 
+<br>
+<a href="#top" class="btn">Back to table of contents</a>
+<hr>
+
+## Ordering Words Alphabetically
+<p align="center">
+<img src="https://user-images.githubusercontent.com/103478551/210183553-109e7df5-2f7c-44bf-bbfc-0b12a848c37d.png"/> 
+</p>
+
+This program asks the user to enter one word, using println() method, then to enter a second word. The program then assigns an integer value to the word depending on the alphabetical order. It then determines and outputs whether the first word is alphabetically before, after or the same as the second word; depending on the integer value assigned. The interactions of input and output all occur in the compiler output pane. 
+<br>
+<a href="#top" class="btn">Back to table of contents</a>
+<hr>
