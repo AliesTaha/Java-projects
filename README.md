@@ -24,10 +24,9 @@ Java 8 or later
 
 ## Game of Life
 <p align="center">
-<img src="https://user-images.githubusercontent.com/103478551/210184174-7973d73e-e6be-4a8d-ac2f-1093bee16ba2.png"/> 
-<img src="https://user-images.githubusercontent.com/103478551/210184195-82d0ac3e-69da-40cc-99b5-67968f6ebd4b.png"/> 
-<img src="https://user-images.githubusercontent.com/103478551/210184210-7d6d9e9e-1e7b-4806-af75-0f8105326cbd.png"/>
-  
+<img width="400" height="300" src="https://user-images.githubusercontent.com/103478551/210184174-7973d73e-e6be-4a8d-ac2f-1093bee16ba2.png"/> 
+<img width="400" height="300" src="https://user-images.githubusercontent.com/103478551/210184195-82d0ac3e-69da-40cc-99b5-67968f6ebd4b.png"/> 
+<img width="400" height="300" src="https://user-images.githubusercontent.com/103478551/210184210-7d6d9e9e-1e7b-4806-af75-0f8105326cbd.png"/>
 </p>
 The Game of Life is a game that simulates a simple life form using a two-dimensional array and it allows user to select the number of live liveNum the game starts with and the number of generations. Each day, life forms are born or die, depending on a set of rules and the cell's location on a 20X20 grid
 
