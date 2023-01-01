@@ -1,4 +1,4 @@
-# Java-projects
+# Java-Projects
 <div align="center">
   <img src="https://user-images.githubusercontent.com/103478551/208328456-f3b10201-16f2-4233-9186-e290d376edaf.png" style="width: 470px; height: 650px;">
 </div>
