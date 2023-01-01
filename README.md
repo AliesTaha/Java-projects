@@ -21,7 +21,7 @@ These are a collection of programs I wrote in Java. They range from complex sort
 * [Merge Sort](#merge-sort)
 * [Rock Paper Scissors ](#rock-paper-scissors)
 * [Simple Encryption](#simple-encryption)
-* [Two Dice Roll Guess](#two-dice-roll)
+* [Two Dice Roll Guess](#two-dice-roll-guess)
 * [Ordering Words Alphabetically](#ordering-words-alphabetically)
 <hr> 
 
