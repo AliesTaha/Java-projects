@@ -37,7 +37,7 @@ The Game of Life is a game that simulates a simple life form using a two-dimensi
 ## Merge Sort
 <p align="center">
 <img width="700" height="250" src="https://user-images.githubusercontent.com/103478551/210184284-8195f762-6422-4d0d-99ce-fe25c6ef81cb.png"/> 
-<img width="200" height="80" src="https://user-images.githubusercontent.com/103478551/210184294-b77dbd94-1987-4581-872c-f5435fcf6ed6.png"/> 
+<img width="200" height="50" src="https://user-images.githubusercontent.com/103478551/210184294-b77dbd94-1987-4581-872c-f5435fcf6ed6.png"/> 
 </p>
 A simple bubble sorting algorithm
 
