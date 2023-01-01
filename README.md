@@ -5,9 +5,10 @@
 
 These are a collection of programs I wrote in Java. They range from complex sorting algorithms, to databases, to simple games. I have gathered them all in one repository as each program is only one file, and explain what each file does below. 
 
-<h2 align="center">Languages Used></h2>
-<img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
-
+<h2 align="center">Languages Used</h2>
+<div align="center">
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+</div>
 
 <h2 id="top">Table of Contents</h2>
 
